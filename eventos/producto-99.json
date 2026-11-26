@@ -1,0 +1,16 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /productos/{id}",
+  "rawPath": "/productos/99",
+  "rawQueryString": "",
+  "pathParameters": {
+    "id": "99"
+  },
+  "requestContext": {
+    "http": {
+      "method": "GET",
+      "path": "/productos/99"
+    }
+  },
+  "isBase64Encoded": false
+}
